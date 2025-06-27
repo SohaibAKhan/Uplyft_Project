@@ -47,7 +47,6 @@ Uplyft/
 │   ├── db_init.py  
 │   └── run.py  
 │
-|
 
 ├── frontend/  
 │   ├── package.json  
@@ -60,7 +59,6 @@ Uplyft/
 │       ├── LoginForm.jsx  
 │       └── ProductCard.jsx
 │
-|
 
 ├── mock_data/products.csv 
 
