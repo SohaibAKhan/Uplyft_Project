@@ -48,6 +48,7 @@ Uplyft/
 │   └── run.py  
 │
 |
+
 ├── frontend/  
 │   ├── package.json  
 │   ├── tailwind.config.js  
@@ -60,6 +61,7 @@ Uplyft/
 │       └── ProductCard.jsx
 │
 |
+
 ├── mock_data/products.csv 
 
 ---
